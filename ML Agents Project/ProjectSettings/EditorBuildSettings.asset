@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 9fc0d4010bbf28b4594072e72b8655ab
+    path: Assets/MLAgents_Visual/GameScene_MLAgents_Visual_SheepPig.unity
+    guid: 1fb4615198e4edb4ca351a7c68fa95e0
   m_configObjects: {}
